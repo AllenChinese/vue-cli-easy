@@ -1,3 +1,5 @@
+<img src="./src/assets/vue-cli-easy.jpg" width="780" height="365">
+
 ## 一、前言
 vue-cli-easy 是在 vue-cli 的基础上，添加了 vue-router、vuex、ElementUI依赖。同样的也对异步请求进行了封装处理，大大简化的请求的代码量（使用github 上 elm 项目对于接口 api 请求的代码思路）。
 
