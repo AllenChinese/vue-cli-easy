@@ -1,7 +1,8 @@
 <img src="./src/assets/vue-cli-easy.jpg" width="850" height="365" style="border: 1px solid #555">
 
 ## 一、前言
-vue-cli-easy 是在 vue-cli 的基础上，添加了 vue-router、vuex、ElementUI依赖。同样的也对异步请求进行了封装处理，大大简化的请求的代码量（使用github 上 elm 项目对于接口 api 请求的代码思路）。
+<b>该基础模板基于老版 vue-cli。体验 vue-cli3.0+ 可移步 <a href="https://github.com/AllenChinese/Ac-vuecli3-template">Ac-vuecli3-template</a></b>
+<br /><br />vue-cli-easy 是在 vue-cli 的基础上，添加了 vue-router、vuex、ElementUI依赖。同样的也对异步请求进行了封装处理，大大简化的请求的代码量（使用github 上 elm 项目对于接口 api 请求的代码思路）。
 
 ## 二、使用步骤
 ```
